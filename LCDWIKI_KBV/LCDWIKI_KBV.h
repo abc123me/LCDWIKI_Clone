@@ -44,6 +44,11 @@
 #define ILI9488 8
 #define ILI9481 9
 
+#define ANGLE_0   0
+#define ANGLE_90  1
+#define ANGLE_180 2
+#define ANGLE_270 3
+
 //if using the lcd breakout board,comment out this next line.
 //if using the lcd shield,leave the line enable: 
 
