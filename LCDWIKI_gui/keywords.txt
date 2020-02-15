@@ -1,0 +1,55 @@
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LCDWIKI_KBV	 			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin					KEYWORD2
+setRotation				KEYWORD2
+background				KEYWORD2
+getWidth				KEYWORD2
+getHeight				KEYWORD2
+color565				KEYWORD2
+setColor				KEYWORD2
+getColor				KEYWORD2
+set						KEYWORD2
+get						KEYWORD2
+getRotation				KEYWORD2
+fillRect				KEYWORD2
+drawRect				KEYWORD2
+fillTriangle			KEYWORD2
+drawTriangle			KEYWORD2
+fillRoundRect			KEYWORD2
+drawRoundRect			KEYWORD2
+fillCircle				KEYWORD2
+drawCircle				KEYWORD2
+drawVLine				KEYWORD2
+drawHLine				KEYWORD2
+drawLine				KEYWORD2
+drawBMP					KEYWORD2
+setCursorPos			KEYWORD2
+getCursorX				KEYWORD2
+getCursorY				KEYWORD2
+setTextColor			KEYWORD2
+getTextColor			KEYWORD2
+setTextBackgroundColor	KEYWORD2
+getTextBackgroundColor	KEYWORD2
+setTextMode				KEYWORD2
+getTextMode				KEYWORD2
+setTextSize				KEYWORD2
+drawStr					KEYWORD2
+drawFloat				KEYWORD2
+drawInt					KEYWORD2
+drawChar				KEYWORD2
+print					KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+ANGLE_0					LITERAL1
+ANGLE_90				LITERAL1
+ANGLE_180				LITERAL1
+ANGLE_270				LITERAL1
